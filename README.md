@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 Hi there, I'm Felix Lee
+I'm a Software Engineer | DeFi Enthusiast | Dreamer :thought_balloon:  <br/><br/>
 
-<!--
-**yoongti/yoongti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔨 I'm currently...
+- 👩‍💻 working as a Full Stack Engineer
+- 🔭 exploring opportunity for any startup idea
+- 🌱 learning Backend and Web 3 development <br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🤖 My AI projects
+- [YouTube Content Ideas Generator](https://gpt3-writer-starter-production-e122.up.railway.app)<br /><br />  
+
+## :closed_book: My posts on Medium
+https://leeyoongti.medium.com/<br /><br />  
+
+## 📫 How to reach me
+You can reach me at leeyoongti@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/yoongtilee/)
