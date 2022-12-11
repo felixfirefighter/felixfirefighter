@@ -8,11 +8,11 @@ I'm a Software Engineer | DeFi Enthusiast | Dreamer :thought_balloon:  <br/><br/
 - 🌱 learning Backend and Web 3 development <br /><br />
 
 
-## 🤖 My AI projects
+## 🤖 AI projects
 - [YouTube Content Ideas Generator](https://gpt3-writer-starter-production-e122.up.railway.app)<br /><br />  
 
 ## :closed_book: My posts on Medium
 https://leeyoongti.medium.com/<br /><br />  
 
-## 📫 How to reach me
+## 📫 Say Hi
 You can reach me at leeyoongti@gmail.com or say 👋 to me on [LinkedIn](https://www.linkedin.com/in/yoongtilee/)
