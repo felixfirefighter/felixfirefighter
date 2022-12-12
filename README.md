@@ -5,7 +5,7 @@ I'm a Software Engineer | DeFi Enthusiast | Dreamer :thought_balloon:  <br/><br/
 ## 🔨 I'm currently...
 - 👩‍💻 working as a Full Stack Engineer
 - 🔭 exploring opportunity for any startup idea
-- 🌱 learning Backend and Web 3 development <br /><br />
+- 🌱 learning backend, Rust and Web 3 development <br /><br />
 
 
 ## 🤖 AI projects
