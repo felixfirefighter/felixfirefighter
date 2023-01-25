@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Felix Lee
-I'm a Software Engineer | DeFi Enthusiast | Dreamer :thought_balloon:  <br/><br/>
+I'm a Software Engineer | Dreamer :thought_balloon:  <br/><br/>
 
 ## 🔨 I'm currently...
 - 👩‍💻 working as a Full Stack Engineer
