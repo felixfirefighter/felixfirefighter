@@ -2,10 +2,10 @@
 I'm a Software Engineer | Dreamer :thought_balloon:  <br/><br/>
 
 ## 🔨 I'm currently...
-- 👩‍💻 working as a Full Stack Engineer
+- 👩‍💻 working as a Frontend Engineer at Goldman Sachs
+- 🛠️ building WiseWallet, a financial management app (WIP but check out here! - https://wisewallet.cc/)
 - 🔭 exploring opportunity for any startup idea
 - 🌱 learning backend
-- 📖 learning ML on [Kaggle](https://www.kaggle.com/felixleeyt) <br /><br />
 
 ## 🤖 AI projects
 - [YouTube Content Ideas Generator](https://gpt3-writer-starter-production-e122.up.railway.app)<br /><br />  
