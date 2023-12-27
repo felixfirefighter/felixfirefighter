@@ -3,7 +3,6 @@ I'm a Software Engineer | Dreamer :thought_balloon:  <br/><br/>
 
 ## 🔨 I'm currently...
 - 👩‍💻 working as a Frontend Engineer at Goldman Sachs
-- 🛠️ learning fast.ai at https://course.fast.ai/
 - 🔭 exploring opportunity for any startup idea
 
 ## 🤖 AI projects
