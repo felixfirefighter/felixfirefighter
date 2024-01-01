@@ -9,12 +9,8 @@ Just your ordinary software engineer next door
 https://huggingface.co/felixleeyt
 - [Bear Classifier](https://huggingface.co/spaces/felixleeyt/bear-classifier)<br /><br />
 
-## :closed_book: Find me on Medium
-https://leeyoongti.medium.com/<br /><br />  
-
-## 📫 Say Hi
-You can reach me at:
+## 📫 Come say Hi!
 Email: leeyoongti@gmail.com \
 LinkedIn: https://www.linkedin.com/in/yoongtilee/ \
-Twitter: https://twitter.com/felfirefighter
-
+Twitter: https://twitter.com/felfirefighter \
+Medium: https://leeyoongti.medium.com/
