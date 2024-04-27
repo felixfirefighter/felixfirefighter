@@ -7,13 +7,13 @@ Just your ordinary software engineer next door
 
 ## Things that I work on
 
-### Projects
+### 🛠️ Projects
 
 #### The One Template
 
 A monorepo built using Turborepo, NextJS, Mantine UI showcasing beautiful UI inspired by Shadcn UI.
 
-Repo - https://github.com/felixfirefighter/the-one-template
+Repo - https://github.com/felixfirefighter/the-one-template \
 Demo - [the-one-template-web.vercel.app](https://the-one-template-web.vercel.app/)
 
 ### 🤖 AI
