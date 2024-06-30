@@ -13,8 +13,15 @@ Just your ordinary software engineer next door
 
 A monorepo built using Turborepo, NextJS, Mantine UI showcasing beautiful UI inspired by Shadcn UI.
 
-Repo - https://github.com/felixfirefighter/the-one-template \
-Demo - [the-one-template-web.vercel.app](https://the-one-template-web.vercel.app/)
+Repo: https://github.com/felixfirefighter/the-one-template \
+Demo: [the-one-template-web.vercel.app](https://the-one-template-web.vercel.app/)
+
+#### The One UI Components
+
+Check out the components that I have been building!
+
+Repo: https://github.com/felixfirefighter/the-one-template/tree/main/packages/tailwind-ui \
+Demo: [UI Components](https://the-one-template-tailwind-ui.vercel.app/)
 
 ### 🤖 AI
 
