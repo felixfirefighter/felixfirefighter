@@ -16,7 +16,7 @@ Showcasing the projects I'm working on!
 
 🔗 **Live Demo:** [Pinsplash](https://felixfirefighter-gfe-pinsplash.vercel.app/)
 
-Note that the app is using demo API which only supports 50 requests per hour.
+Note that the app is using demo Unsplash API which only supports 50 requests per hour.
 
 <div align="center">
   <h3>Pinsplash</h3>
