@@ -58,10 +58,18 @@ A monorepo featuring Next.js, Turborepo & Mantine UI with inspiration from ShadC
 🔗 **Repo:** [GitHub](https://github.com/felixfirefighter/the-one-template)  
 🔗 **Live Demo:** [the-one-template-web.vercel.app](https://the-one-template-web.vercel.app/)
 
-| | | | |
-|---------|---------|---------|---------|
-| <img src="https://github.com/user-attachments/assets/41a662a0-1516-4fa7-8459-7a63142e4891" width="250"> | <img src="https://github.com/user-attachments/assets/e3bbd0d1-0f6a-4f58-bed4-ddeda326e06d" width="250"> | <img src="https://github.com/user-attachments/assets/ad6c99ac-3dca-4db0-9cdc-aca75a71ef94" width="250"> | <img src="https://github.com/user-attachments/assets/e3bbd0d1-0f6a-4f58-bed4-ddeda326e06d" width="250"> |
-| <img src="https://github.com/user-attachments/assets/504a7c3c-d2fe-4822-b22b-3a846bd798c6" width="250"> | <img src="https://github.com/user-attachments/assets/a42561de-f5a3-4a7b-b893-8846a3347e8a" width="250"> | <img src="https://github.com/user-attachments/assets/539dd9d4-755e-4da1-89be-cdb41e378d1b" width="250"> | <img src="https://github.com/user-attachments/assets/b58bda55-013d-4d1d-a5ec-7a1c11add7fe" width="250"> |
+<div align="center">
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/cd05a5e1-df89-4277-888e-ee37302c6f32" width="500">
+    <img src="https://github.com/user-attachments/assets/bb4c87d9-15ef-4c1b-bab9-d3d7ff82845d" width="500">
+    <img src="https://github.com/user-attachments/assets/56dd2a3f-7eaa-40b1-a313-b2ea08456113" width="500">
+    <img src="https://github.com/user-attachments/assets/03a99f3e-f048-4c9f-845c-79e42b921040" width="500">
+    <img src="https://github.com/user-attachments/assets/ae034dc6-6e0f-4dba-8834-019bdd490353" width="500">
+    <img src="https://github.com/user-attachments/assets/062643f3-cef4-4008-989f-5d2fcad8f3e9" width="500">
+    <img src="https://github.com/user-attachments/assets/70c6336c-9eb1-45e3-8ce2-55443add094e" width="500">
+    <img src="https://github.com/user-attachments/assets/439c24c0-bef7-47c5-9a62-c923ecde104a" width="500">
+  </div>
+</div>
 
 ---
 
