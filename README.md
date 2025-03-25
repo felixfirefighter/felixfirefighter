@@ -14,6 +14,24 @@
 ### 🏗️ Portfolio (WIP)
 Showcasing the projects I'm working on!
 
+🔗 **Live Demo:** [Hacker News Client](https://felixfirefighter-gfe-hacker-news.vercel.app/jobs)
+
+<div align="center">
+  <h3>Hacker News Client</h3>
+  <div style="display: flex; gap: 10px;">
+<!--     <img src="https://github.com/user-attachments/assets/d665643c-deac-4432-a676-169908ff0fba" width="200">
+    <img src="https://github.com/user-attachments/assets/87bd0c21-59d1-4ca9-b17d-dabfad76e1db" width="200">
+    <img src="https://github.com/user-attachments/assets/a51c9fe6-f201-4612-b9c2-94a07bbb42ed" width="200">
+    <img src="https://github.com/user-attachments/assets/9692acb4-d9bd-4cfe-8a57-7da251a0ff34" width="200"> -->
+    <img src="https://github.com/user-attachments/assets/349e2a7a-7079-4a99-b5e4-63020083181b" width="400">
+    <img src="https://github.com/user-attachments/assets/c52c0e3d-8e05-4716-8686-cbac4c994e73" width="400">
+    <img src="https://github.com/user-attachments/assets/14a6c526-bd02-4a2e-b7d4-128756c573be" width="400">
+  </div>
+</div>
+
+
+---
+
 🔗 **Live Demo:** [Pinsplash](https://felixfirefighter-gfe-pinsplash.vercel.app/)
 
 Note that the app is using demo Unsplash API which only supports 50 requests per hour.
