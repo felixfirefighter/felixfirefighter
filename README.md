@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ What I Do
-- 👨‍💻 Crafting seamless user experiences with Next.js & ShadCN
+- 👨‍💻 Crafting seamless user experiences
 - ⚡ Exploring startup ideas & side projects
 
 ---
