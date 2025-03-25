@@ -11,7 +11,7 @@
 
 ## 🌟 Featured Projects
 
-### 🏗️ Portfolio (WIP)
+### 🏗️ Portfolio
 Showcasing the projects I'm working on!
 
 🔗 **Live Demo:** [Hacker News Client](https://felixfirefighter-gfe-hacker-news.vercel.app/jobs)
