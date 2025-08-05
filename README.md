@@ -14,6 +14,18 @@
 ### 🏗️ Portfolio
 Showcasing the projects I'm working on!
 
+🔗 **Live Demo:** [Mortgage Calculator](https://portfolio-turborepo-mortgage-calcul.vercel.app/)
+
+<div align="center">
+  <h3>Mortgage Calculator</h3>
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/5cf79513-152f-429d-be60-48dc6499d56c" width="400">
+    <img src="https://github.com/user-attachments/assets/472e416b-12e8-4aee-bf19-bb6f8ea04991" width="400">
+  </div>
+</div>
+
+---
+
 🔗 **Live Demo:** [Hacker News Client](https://felixfirefighter-gfe-hacker-news.vercel.app/jobs)
 
 <div align="center">
