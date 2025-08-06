@@ -82,6 +82,18 @@ Note that the app is using demo Unsplash API which only supports 50 requests per
 
 ---
 
+🔗 **Live Demo:** [Advice Generator](https://portfolio-turborepo-advice-generato.vercel.app/)
+
+<div align="center">
+  <h3>Advice Generator</h3>
+  <div style="display: flex; gap: 10px;">
+    <img alt="s1" src="https://github.com/user-attachments/assets/d8136a58-4113-42f5-b2f8-c8d588e56f95" width="400" />
+    <img alt="s2" src="https://github.com/user-attachments/assets/69243157-6ea3-4825-b4f2-d8c4797b1377" width="400" />
+  </div>
+</div>
+
+---
+
 ### ⚡ The One Template
 A monorepo featuring Next.js, Turborepo & Mantine UI with inspiration from ShadCN UI.
 
