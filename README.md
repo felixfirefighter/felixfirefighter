@@ -14,6 +14,17 @@
 ### 🏗️ Portfolio
 Showcasing the projects I'm working on!
 
+🔗 **Live Demo:** [URL Shortener](https://portfolio-turborepo-url-shortener.vercel.app/)
+
+<div align="center">
+  <h3>URL Shortener</h3>
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/a84270e1-53d0-47ce-820a-3a3f28ec94a6" width="400">
+  </div>
+</div>
+
+---
+
 🔗 **Live Demo:** [Mortgage Calculator](https://portfolio-turborepo-mortgage-calcul.vercel.app/)
 
 <div align="center">
